@@ -1,3 +1,4 @@
+# Project Report
 ## 📢 Project Overview
 
 This project involved conducting a comprehensive analysis of financial data to understand investment behaviors and preferences. The analysis aimed to derive actionable insights that could support decision-making processes within the financial sector, particularly for marketing teams and investment advisers.
