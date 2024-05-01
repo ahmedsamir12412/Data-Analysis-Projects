@@ -1,4 +1,7 @@
 # Project Report
+![AdobeStock_456009330_Editorial_Use_Only-1024x614](https://github.com/ahmedsamir12412/Data-Analysis-Projects/assets/90070792/fa3f389b-5fb9-478c-8170-7d1a9ffe7217)
+
+
 ## 📢 Project Overview
 
 This project involved conducting a comprehensive financial analysis of four major technology companies: Apple (AAPL), Amazon (AMZN), Google (GOOGL), and Microsoft (MSFT). The data was in time-series format, recording daily stock price information like opening price, closing price, high, low, and volume.
