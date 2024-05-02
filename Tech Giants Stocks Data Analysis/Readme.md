@@ -22,11 +22,13 @@ The data analysis was conducted largely using Python and various Python librarie
 ## 🔔 Processes
 The steps undertaken throughout the project included:
 
-1. Web Scraping: We performed a web scraping using  **yfinance** library. to get the desired data.
-2. Loading and Inspecting the Data: The dataset was loaded into a pandas DataFrame and inspected to understand its structure.
-3. Data Preparation: The dataset was cleaned up for any aberrations, and the data was cast into appropriate types for computation.
-4. Calculating Financial Metrics: A series of financial metrics, including median trading volume, maximum single-day price changes, count of new highs and new lows, cumulative returns, compound annual growth rate (CAGR), beta of each ticker, Sharpe Ratio, Sortino Ratio, maximum drawdown, recovery factor, and profit factor, were calculated for each ticker.
-5. Data Analysis: The calculated metrics were analyzed to generate insights into each ticker's performance, risk profile, and trading activity.
+1. **Web Scraping**: We performed a web scraping using  **yfinance** library. to get the desired data.
+2. **Loading and Inspecting the Data**: The dataset was loaded into a pandas DataFrame and inspected to understand its structure.
+3. **Data Preparation**: The dataset was cleaned up for any aberrations, and the data was cast into appropriate types for computation.
+4. **Calculating Financial Metrics**: A series of financial metrics, including median trading volume, maximum single-day price changes, count of new highs and new lows, cumulative returns, compound annual growth rate (CAGR), beta of each ticker, Sharpe Ratio, Sortino Ratio, maximum drawdown, recovery factor, and profit factor, were calculated for each ticker.
+5. **Data Analysis**: The calculated metrics were analyzed to generate insights into each ticker's performance, risk profile, and trading activity.
+6. **Data Visualization**: We created different types of visualizations and plots to uncover all patterns, relations and trends excisting in our data.
+7. **Reporting**: All the insights and findings obtained from the analysis have been presented to stakeholders such as investors and financial analysts in a manner that could help in making data-driven decisions.
  
 ## 💡 Findings
 The findings of the analysis offered valuable insights into several facets of the financial performance of the four tickers:
